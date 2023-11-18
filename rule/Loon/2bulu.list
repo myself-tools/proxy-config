@@ -1,0 +1,27 @@
+# NAME: 2bulu.list
+# AUTHOR: waldron
+# REPO: 
+# UPDATED: 2023-10-01
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
+
+# 开屏广告展示
+DOMAIN-SUFFIX,helper.2bulu.com/saveEventStatistics
+# 保存启动频率统计信息
+DOMAIN-SUFFIX,helper.2bulu.com/saveSplashFrequencyStatistics
+# 获取装饰
+DOMAIN-SUFFIX,helper.2bulu.com/getSplash
+# 获取流行信息
+DOMAIN-SUFFIX,helper.2bulu.com/getPopInfo
+# 获取商品
+DOMAIN-SUFFIX,helper.2bulu.com/system/queryGiveGoods
+# 白名单更新
+DOMAIN-SUFFIX,helper.2bulu.com/checkUpdateByWhiteList
+# 获取应用程序皮肤
+DOMAIN-SUFFIX,helper.2bulu.com/getAppSkin
+# 应用入口配置
+DOMAIN-SUFFIX,helper.2bulu.com/getAppEntranceConfig
+# 保存事件统计信息
+DOMAIN-SUFFIX,helper.2bulu.com/saveEventStatistics
+# 商店
+DOMAIN-SUFFIX,shop45920354.m.youzan.com
